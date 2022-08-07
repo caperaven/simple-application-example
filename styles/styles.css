@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+header h2 {
+    flex: 1;
+}
+
+h2 {
+    color: #ff0090;
+    padding: 0;
+}
